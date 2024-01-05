@@ -1,0 +1,6 @@
+@soiapp_HostAddress = http://localhost:5213
+
+GET {{soiapp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
